@@ -1,4 +1,4 @@
-# MobileMovieApp 👋
+# MobileMoviesApp 👋
 
 This repository follows JavaScript Mastery's course Build and Deploy 3 Full-Stack React Native Apps That'll Get You Hired | Full 10-Hour Course at https://www.youtube.com/watch?v=BTfcnxXevm0 .
 
