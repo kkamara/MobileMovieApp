@@ -4,6 +4,8 @@ This repository follows JavaScript Mastery's course Build and Deploy 3 Full-Stac
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+This app uses the TMDB movies API at https://developer.themoviedb.org/docs/getting-started .
+
 ## Get started
 
 1. Install dependencies
