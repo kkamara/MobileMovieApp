@@ -10,7 +10,7 @@ export default function Index() {
         Welcome.
       </Text>
       <Link href="/onboarding">Onboarding</Link>
-      <Link href="/movie/avengers">Avengers Movie</Link>
+      <Link href="/movies/avengers">Avengers Movie</Link>
     </View>
   );
 }
